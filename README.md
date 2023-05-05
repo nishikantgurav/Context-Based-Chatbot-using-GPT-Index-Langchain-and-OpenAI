@@ -13,6 +13,6 @@ This repository contains the implementation of a context-based chatbot using GPT
 **Pip (Python Package Installer)
 
 Acknowledgements
-OpenAI([https://openai.com/](url))
-GPT-Index([https://github.com/yourusername/GPT-Index](url))
-Langchain(https://github.com/yourusername/Langchain)
+OpenAI
+GPT-Index
+Langchain
